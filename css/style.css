@@ -1,0 +1,26 @@
+*::after,  *::before{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#hero{
+    background-color: rgb(0, 79, 156);
+}
+.navbar{
+    background-color: rgb(0, 79, 156) !important;
+}
+.pesquisa{
+    background: linear-gradient(to right, rgb(9,127,201),rgb(0,39,78));
+}
+.cursos{
+    /* border-right: 2px solid red;
+    border-left: 2px solid red; */
+    background-color: #fff;
+}
+.cursos img{
+    height: 100px;
+    width: 100px;
+}
+.footer{
+    background-color: rgb(0, 79, 156) !important;
+}
